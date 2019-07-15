@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "パソコンデスク",
+    "category": "机",
+    "price": "10000",
+    "image": "desk.jpg"
+  },
+  {
+    "id": 2,
+    "title": "カウンターテーブル",
+    "category": "テーブル",
+    "price": "10000",
+    "image": "counter.jpg"
+  },
+  {
+    "id": 3,
+    "title": "北欧風ソファ",
+    "image": "sofa.jpg",
+    "price": "10000",
+    "category": "ソファ"
+  },
+  {
+    "id": 4,
+    "title": "ウォール",
+    "category": "収納",
+    "price": "10000",
+    "image": "wall.jpg"
+  },
+  {
+    "id": 5,
+    "title": "TV台 大サイズ",
+    "category": "テレビ台",
+    "price": "10000",
+    "image": "tv.jpg"
+  },
+  {
+    "id": 6,
+    "title": "キルト生地ラグ",
+    "category": "ラグ",
+    "price": "10000",
+    "image": "lag.jpg"
+  },
+  {
+    "id": 7,
+    "title": "タモ材の高さ調整宮付きベッド",
+    "category": "ベッド",
+    "price": "10000",
+    "image": "bed.jpg"
+  }
+]
